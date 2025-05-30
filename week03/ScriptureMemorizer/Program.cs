@@ -2,10 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-// This program loads scriptures from a text file and picks one at random
-// to help the user practice memorization by hiding random words over time.
-// Exceeded Requirements: Added feature to load multiple scriptures from a file.
-
 class Program
 {
     static void Main(string[] args)
