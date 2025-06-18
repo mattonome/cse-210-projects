@@ -1,4 +1,3 @@
-// Program.cs
 // EXCEEDED REQUIREMENTS:
 // - Used DateTime-based duration control
 // - Spinner and countdown animations
